@@ -3,7 +3,7 @@
 	"globalEnv": [
 		"TOTPSECRET", "MAIL", "PASSWORD"
 	],
-	"ui": "tui",
+	"ui": "stream",
 	"tasks": {
 		"dev": {
 			"cache": false,

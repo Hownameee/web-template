@@ -12,3 +12,4 @@ gen/
 *.config.mts
 *.d.ts
 .prettierrc
+README
